@@ -1,1 +1,34 @@
 /*Page de css*/
+
+body
+{
+    background-image: url("img/fond.jpg");
+	background-attachment: fixed;
+}
+
+/* Navigation */
+
+nav ul
+{
+	list-style-type: none;
+}
+
+nav li
+{
+	display: inline-block;
+	margin-right: 20px;
+}
+
+nav a
+{
+	font-size: 1.5em;
+}
+
+article
+{
+    font-size: 1.1em; /* Paragraphes de 14 pixels */
+}
+h1
+{
+    font-size: 1.3em; /* Titres de 40 pixels */
+}
