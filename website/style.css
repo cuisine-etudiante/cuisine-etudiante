@@ -7,6 +7,11 @@ body
 	background-size: cover;
 }
 
+header h2
+{
+
+}
+
 /* Navigation */
 
 nav ul
@@ -23,6 +28,12 @@ nav li
 nav a
 {
 	font-size: 1.5em;
+	color: black;
+}
+
+nav a:visited
+{
+	color: black;
 }
 
 article
