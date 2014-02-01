@@ -4,6 +4,7 @@ body
 {
     background-image: url("img/fond.jpg");
 	background-attachment: fixed;
+	background-size: cover;
 }
 
 /* Navigation */
@@ -27,8 +28,5 @@ nav a
 article
 {
     font-size: 1.1em; /* Paragraphes de 14 pixels */
-}
-h1
-{
-    font-size: 1.3em; /* Titres de 40 pixels */
+	font-family: Georgia;
 }
